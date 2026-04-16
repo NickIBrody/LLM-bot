@@ -1,0 +1,10 @@
+.env
+*.db
+*.log
+__pycache__/
+*/__pycache__/
+*/**/__pycache__/
+*.pyc
+venv/
+.tunnel_url
+users.json
