@@ -26,7 +26,7 @@ Telegram-бот с Mini App интерфейсом для общения с не
 | 🟡 `qwen/qwen3-30b-a3b` | MoE архитектура — быстрая и эффективная |
 | 🟢 `qwen/qwen3-coder-flash` | Код и дебаггинг |
 
-Все модели доступны через **[polza.ai](https://polza.ai)** — российский агрегатор LLM API.
+Все модели доступны через **[polza.ai](https://polza.ai/?referral=UjroZUQFMU)** — российский агрегатор LLM API.
 
 ---
 
